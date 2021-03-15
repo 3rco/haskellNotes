@@ -1,0 +1,1 @@
+#### Personal Haskell Study notes
